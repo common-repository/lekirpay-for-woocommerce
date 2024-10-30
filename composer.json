@@ -1,0 +1,16 @@
+{
+    "name": "Lekirpay/Lekirpay-for-woocommerce",
+    "description": "A Lekirpay plugin for integration with WooCommerce",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Lekir Tech SDN BHD.",
+            "email": "afi@lekir.tech"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.4"
+    }
+}
